@@ -92,3 +92,7 @@ ffmpeg, and the screen is driven headlessly with Textual's pilot.
 
 The design document, written when the tool was first planned, is in
 [`docs/design.md`](docs/design.md).
+
+## License
+
+Apache License 2.0, like the SiMa Neat projects this tool works with. See [`LICENSE`](LICENSE).
